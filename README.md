@@ -14,7 +14,7 @@
 
 ### Visualizations
 
-I like to play around with different forms of visualizations in my projects. Here are a few of them.
+I enjoy experimenting with visualization in my projects. Here are some that I like:
 
 | Coverage of U.S. local news | Consumption-capital dynamics in a neo-classical growth model |
 | ------------- | ------------- |
