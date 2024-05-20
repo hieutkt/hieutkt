@@ -1,4 +1,4 @@
-
+I am an economic researcher who specializes in econometrics and statistical techniques involving big data. My contributions spanned studies on topics such as the dynamics of import competition, the public’s view of The IMF and the World Bank, and real-time inflation tracking via e-commerce analytics.
 
 
 ### Some codes stored in this repository
