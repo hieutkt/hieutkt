@@ -26,9 +26,10 @@ I enjoy experimenting with visualization in my projects. Here are some that I li
 | <img src="https://github.com/hieutkt/hieutkt/assets/16746470/7a61716b-bdc2-4584-a53a-7a168577ab8e" > | 
 
 ### Languages and Tools
-
 [![julia][julia-img]][julia-url]
 [![python][python-img]][python-url]
+[![r][r-img]][r-url]
+[![sql][sql-img]][sql-url]
 [![stata][stata-img]][stata-url]
 [![matlab][matlab-img]][matlab-url]
 [![latex][latex-img]][latex-url]
@@ -63,3 +64,9 @@ I enjoy experimenting with visualization in my projects. Here are some that I li
 
 [emacs-img]: https://img.shields.io/badge/-Emacs-7F5AB6?style=for-the-badge&logo=GNU-Emacs&logoColor=white
 [emacs-url]: https://www.gnu.org/software/emacs
+
+[r-img]: https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white
+[r-url]: https://www.r-project.org
+
+[sql-img]: https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=MySQL&logoColor=white
+[sql-url]: https://www.mysql.com
