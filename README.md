@@ -26,6 +26,7 @@ I enjoy experimenting with visualization in my projects. Here are some that I li
 | <img src="https://github.com/hieutkt/hieutkt/assets/16746470/7a61716b-bdc2-4584-a53a-7a168577ab8e" > | 
 
 ### Languages and Tools
+
 [![julia][julia-img]][julia-url]
 [![python][python-img]][python-url]
 [![r][r-img]][r-url]
@@ -33,9 +34,7 @@ I enjoy experimenting with visualization in my projects. Here are some that I li
 [![stata][stata-img]][stata-url]
 [![matlab][matlab-img]][matlab-url]
 [![latex][latex-img]][latex-url]
-[![bash][bash-img]][bash-url]
-[![git][git-img]][git-url]
-[![github][github-img]][github-url]
+[![linux][linux-img]][linux-url]
 [![emacs][emacs-img]][emacs-url]
 
 [julia-img]: https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white
@@ -53,14 +52,8 @@ I enjoy experimenting with visualization in my projects. Here are some that I li
 [latex-img]: https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white
 [latex-url]: https://tug.org
 
-[bash-img]: https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white
-[bash-url]: https://www.gnu.org/software/bash
-
-[git-img]: https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white
-[git-url]: https://git-scm.com
-
-[github-img]: https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white
-[github-url]: https://github.com
+[linux-img]: https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black
+[linux-url]: https://www.linux.org
 
 [emacs-img]: https://img.shields.io/badge/-Emacs-7F5AB6?style=for-the-badge&logo=GNU-Emacs&logoColor=white
 [emacs-url]: https://www.gnu.org/software/emacs
@@ -70,3 +63,4 @@ I enjoy experimenting with visualization in my projects. Here are some that I li
 
 [sql-img]: https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=MySQL&logoColor=white
 [sql-url]: https://www.mysql.com
+
