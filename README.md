@@ -37,30 +37,29 @@ I enjoy experimenting with visualization in my projects. Here are some that I li
 [![linux][linux-img]][linux-url]
 [![emacs][emacs-img]][emacs-url]
 
-[julia-img]: https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white
+[julia-img]: https://img.shields.io/badge/-Julia-6F4E7C?style=for-the-badge&logo=Julia&logoColor=white
 [julia-url]: https://julialang.org
 
-[python-img]: https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white
+[python-img]: https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=Python&logoColor=white
 [python-url]: https://www.python.org
 
-[stata-img]: https://img.shields.io/badge/-Stata-3F54A3?style=for-the-badge
+[stata-img]: https://img.shields.io/badge/-Stata-455A64?style=for-the-badge
 [stata-url]: https://www.stata.com
 
-[matlab-img]: https://img.shields.io/badge/-Matlab-orange?style=for-the-badge
+[matlab-img]: https://img.shields.io/badge/-Matlab-D35400?style=for-the-badge
 [matlab-url]: https://www.mathworks.com/products/matlab.html
 
-[latex-img]: https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white
+[latex-img]: https://img.shields.io/badge/-LaTeX-2E8B57?style=for-the-badge&logo=LaTeX&logoColor=white
 [latex-url]: https://tug.org
 
-[linux-img]: https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black
+[linux-img]: https://img.shields.io/badge/-Linux-AF3A03?style=for-the-badge&logo=Linux&logoColor=white
 [linux-url]: https://www.linux.org
 
-[emacs-img]: https://img.shields.io/badge/-Emacs-7F5AB6?style=for-the-badge&logo=GNU-Emacs&logoColor=white
+[emacs-img]: https://img.shields.io/badge/-Emacs-9370DB?style=for-the-badge&logo=GNU-Emacs&logoColor=white
 [emacs-url]: https://www.gnu.org/software/emacs
 
-[r-img]: https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white
+[r-img]: https://img.shields.io/badge/-R-4682B4?style=for-the-badge&logo=R&logoColor=white
 [r-url]: https://www.r-project.org
 
-[sql-img]: https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=MySQL&logoColor=white
+[sql-img]: https://img.shields.io/badge/-SQL-4682B4?style=for-the-badge&logo=MySQL&logoColor=white
 [sql-url]: https://www.mysql.com
-
