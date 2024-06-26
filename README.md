@@ -24,3 +24,42 @@ I enjoy experimenting with visualization in my projects. Here are some that I li
 | Voting alignment between UN members and China (left), Russia (middle), and the U.S. (right) | 
 | :---: | 
 | <img src="https://github.com/hieutkt/hieutkt/assets/16746470/7a61716b-bdc2-4584-a53a-7a168577ab8e" > | 
+
+### Languages and Tools
+
+[![julia][julia-img]][julia-url]
+[![python][python-img]][python-url]
+[![stata][stata-img]][stata-url]
+[![matlab][matlab-img]][matlab-url]
+[![latex][latex-img]][latex-url]
+[![bash][bash-img]][bash-url]
+[![git][git-img]][git-url]
+[![github][github-img]][github-url]
+[![emacs][emacs-img]][emacs-url]
+
+[julia-img]: https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white
+[julia-url]: https://julialang.org
+
+[python-img]: https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white
+[python-url]: https://www.python.org
+
+[stata-img]: https://img.shields.io/badge/-Stata-3F54A3?style=for-the-badge
+[stata-url]: https://www.stata.com
+
+[matlab-img]: https://img.shields.io/badge/-Matlab-orange?style=for-the-badge
+[matlab-url]: https://www.mathworks.com/products/matlab.html
+
+[latex-img]: https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white
+[latex-url]: https://tug.org
+
+[bash-img]: https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white
+[bash-url]: https://www.gnu.org/software/bash
+
+[git-img]: https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white
+[git-url]: https://git-scm.com
+
+[github-img]: https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white
+[github-url]: https://github.com
+
+[emacs-img]: https://img.shields.io/badge/-Emacs-7F5AB6?style=for-the-badge&logo=GNU-Emacs&logoColor=white
+[emacs-url]: https://www.gnu.org/software/emacs
