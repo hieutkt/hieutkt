@@ -21,6 +21,6 @@ I enjoy experimenting with visualization in my projects. Here are some that I li
 | <img src="https://github.com/hieutkt/hieutkt/assets/16746470/6a1d7fcf-b279-4804-9261-b38018d4eae5"> | <img src="https://github.com/hieutkt/hieutkt/assets/16746470/31a4d209-83b0-48d8-b864-22ffbd3eae73"> | 
 
 
-| Number of the World Bank's presidential speeches over time | 
+| Voting alignment between UN members and the U.S. (left), Russia (middle) and China (right) | 
 | :---: | 
-| <img src="https://github.com/hieutkt/hieutkt/assets/16746470/72543085-3a49-4ace-a178-1e571d88998d" > | 
+| <img src="https://github.com/hieutkt/hieutkt/assets/16746470/7a61716b-bdc2-4584-a53a-7a168577ab8e" > | 
