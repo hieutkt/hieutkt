@@ -16,6 +16,13 @@ I am an economic researcher who specializes in econometrics and statistical tech
 
 I enjoy experimenting with visualization in my projects. Here are some that I like:
 
+
+
+| Visualization of the Boids algorithm, from Advent of Code Challenge 2021 | 
+| :---: | 
+| [![IMAGE ALT TEXT](http://img.youtube.com/vi/YmBUXgY90Xo/0.jpg)](http://www.youtube.com/watch?v=YmBUXgY90Xo "Boids algorithm simulation") | 
+
+
 | Coverage of U.S. local news | Consumption-capital dynamics in a neo-classical growth model |
 | ------------- | ------------- |
 | <img src="https://github.com/hieutkt/hieutkt/assets/16746470/6a1d7fcf-b279-4804-9261-b38018d4eae5"> | <img src="https://github.com/hieutkt/hieutkt/assets/16746470/31a4d209-83b0-48d8-b864-22ffbd3eae73"> | 
