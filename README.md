@@ -18,9 +18,9 @@ I enjoy experimenting with visualization in my projects. Here are some that I li
 
 
 
-| Visualization of the Boids algorithm with exponential growth lanternfish (from Advent of Code Challenge 2021) | 
+| (Video) Visualization of the Boids algorithm with exponential growth lanternfish (from Advent of Code Challenge 2021) | 
 | :---: | 
-| [![IMAGE ALT TEXT](http://img.youtube.com/vi/YmBUXgY90Xo/0.jpg)](http://www.youtube.com/watch?v=YmBUXgY90Xo "Boids algorithm simulation") | 
+| [![Visualization of the Boids algorithm with exponential growth lanternfish (from Advent of Code Challenge 2021)](http://img.youtube.com/vi/YmBUXgY90Xo/0.jpg)](http://www.youtube.com/watch?v=YmBUXgY90Xo "Boids algorithm simulation") | 
 
 
 | Coverage of U.S. local news | Consumption-capital dynamics in a neo-classical growth model |
