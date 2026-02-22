@@ -8,9 +8,6 @@ I am an economic researcher who specializes in econometrics and statistical tech
 - [Ayagari.jl](https://github.com/hieutkt/Aiyagari.jl): Julia code that solves the Aiyagari model of inequality and wealth distribution with incomplete markets
 - [price-webscraping](https://github.com/hieutkt/price-webscraping): Automated price webscaping from Vietnam e-commerce websites
 
-### Research
-
-- <a href="https://dx.doi.org/10.2139/ssrn.4793900"><img src="https://img.shields.io/badge/DOI-10.2139%2Fssrn.4793900-blue?style=flat-square" align="right"/></a>**[Import Competition and U.S. Sentiment Toward China (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4793900)**
 
 ### Visualizations
 
